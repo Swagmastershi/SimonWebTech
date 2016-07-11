@@ -6,12 +6,14 @@
 
 /* title */
 .navbar-custom .navbar-brand {
-    color: red;
+    color: #9700FF;
+	padding: 10px 10px 10px 10px;
 }
 
+/* title hover */
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus {
-    color: blue;
+    color: #103A56;
 }
 
 /* link */
@@ -21,7 +23,7 @@
 
 .navbar-custom .navbar-nav > li > a:hover,
 .navbar-custom .navbar-nav > li > a:focus {
-    color: red;
+    color: blue;
 }
 
 .navbar-custom .navbar-nav > .active > a, 
